@@ -68,5 +68,5 @@ function resetForm() {
     document.getElementById("product").value = '';
     document.getElementById("qty").value = '';
     document.getElementById("perPrice").value = '';
-    selectedRow = null;
+    selectedRow =null;
 }
